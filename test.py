@@ -25,3 +25,4 @@ and_back_up()
 
 # and another one, and another one
 
+# fix #6
